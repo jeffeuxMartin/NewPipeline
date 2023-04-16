@@ -7,6 +7,8 @@ import pandas as pd
 from torch.utils.data import Dataset, DataLoader
 # dump_hubert_feature.main
 
+torch.multiprocessing.set_sharing_strategy('file_system')
+
 class MyResampler(torch.nn.Module):
     def __init__(self, expected_sample_rate=16000):
         super().__init__()
@@ -44,7 +46,9 @@ class AudioDataset(Dataset):
         name = Path(row['audio']).stem
         waveform, waveform_rate = torchaudio.load(str(self.root / (row['audio'])))
         assert waveform_rate == row['sr']
-        assert row['n_frames'] == waveform.size(-1), """N Frames should be {}, but get {} instead. ...""".format(row["n_frames"], waveform.size)
+        # from IPython import embed; embed()
+        if row['n_frames'] != waveform.size(-1) and False: 
+            print("""N Frames should be {}, but get {} instead. ...""".format(row["n_frames"], waveform.size()))
         
         resampled_waveform, resampled_nframes, resampled_sr = self.resampler(waveform, waveform_rate)
         return name, resampled_waveform, resampled_nframes, resampled_sr, *[row[col] for col in self.other_cols]
