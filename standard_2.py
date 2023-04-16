@@ -75,8 +75,8 @@ def dumpout(table, dumped):
         nsamples, sr = nsamples.item(), sr.item()
         newname = f'buffer/{name}.wav'
         torchaudio.save(newname, audio, sr)
-        newtable.append([newname, nsamples, sr, *others])
-    return newtable, []
+        dumped.append([newname, nsamples, sr, *others])
+    return dumped, []
 
 
 audio_list = []  # 儲存所有音訊資料的列表
