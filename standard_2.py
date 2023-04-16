@@ -65,21 +65,31 @@ mydst = AudioDataset(
 mydataloader = DataLoader(mydst, batch_size=1, shuffle=False, num_workers=eval(sys.argv[1]))
 from tqdm import tqdm
 
+# 將所有音訊儲存為 WAV 檔案
+
+def dumpout(table, dumped):
+    for i, sample in enumerate(tqdm(table, desc='dumping')):
+        (name, audio, nsamples, sr, *others) = sample
+        ([name], [audio], [nsamples], [sr]) = (name, audio, nsamples, sr)
+        [others] = zip(*others)
+        nsamples, sr = nsamples.item(), sr.item()
+        newname = f'buffer/{name}.wav'
+        torchaudio.save(newname, audio, sr)
+        newtable.append([newname, nsamples, sr, *others])
+    return newtable, []
+
+
 audio_list = []  # 儲存所有音訊資料的列表
-for batch in tqdm(mydataloader):
+dumped = []  # 儲存已經處理過的音訊資料的列表
+for batch in tqdm(mydataloader, desc='resampling'):
     audio_list.append(batch)  # 將批處理的資料新增到列表中
     # 這裡是你對音訊資料進行處理的程式碼
+    if len(audio_list) >= 100:
+        dumped, audio_list = dumpout(audio_list, dumped)
+dumped, audio_list = dumpout(audio_list, dumped)
+assert audio_list == []
+newtable = dumped
 
-# 將所有音訊儲存為 WAV 檔案
-newtable = []
-for i, sample in enumerate(tqdm(audio_list)):
-    (name, audio, nsamples, sr, *others) = sample
-    ([name], [audio], [nsamples], [sr]) = (name, audio, nsamples, sr)
-    [others] = zip(*others)
-    nsamples, sr = nsamples.item(), sr.item()
-    newname = f'buffer/{name}.wav'
-    torchaudio.save(newname, audio, sr)
-    newtable.append([newname, nsamples, sr, *others])
 
 newtable = pd.DataFrame(newtable, columns=['audio', 'n_frames', 'sr', *mydst.other_cols])
 newtable.to_csv('standardout_1.tsv', sep='\t', index=False)
