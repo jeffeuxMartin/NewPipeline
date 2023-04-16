@@ -58,8 +58,8 @@ class AudioDataset(Dataset):
 #     root=Path('/storage/LabJob/Projects/Data/CovoST4/cv-corpus-6.1-2020-12-11/en/clips'))
 
 mydst = AudioDataset(
-    # datatable=pd.read_csv('/home/jeffeuxmartin/Projects/Mys3prl/s3prl/s3prl/data/covost_en_de/train.tsv', sep='\t'), 
-    datatable=pd.read_csv('/home/jeffeuxmartin/ReUnits/NewPipeline/faketrain.tsv', sep='\t'), 
+    datatable=pd.read_csv('/home/jeffeuxmartin/Projects/Mys3prl/s3prl/s3prl/data/covost_en_de/train.tsv', sep='\t'), 
+    # datatable=pd.read_csv('/home/jeffeuxmartin/ReUnits/NewPipeline/faketrain.tsv', sep='\t'), 
     root=Path('/livingrooms/public/CoVoST2/cv-corpus-6.1-2020-12-11/en/clips'),
 )
 
