@@ -44,7 +44,7 @@ class AudioDataset(Dataset):
         name = Path(row['audio']).stem
         waveform, waveform_rate = torchaudio.load(str(self.root / (row['audio'])))
         assert waveform_rate == row['sr']
-        assert row['n_frames'] == waveform.size(-1)
+        assert row['n_frames'] == waveform.size(-1), """N Frames should be {}, but get {} instead. ...""".format(row["n_frames"], waveform.size)
         
         resampled_waveform, resampled_nframes, resampled_sr = self.resampler(waveform, waveform_rate)
         return name, resampled_waveform, resampled_nframes, resampled_sr, *[row[col] for col in self.other_cols]
@@ -54,8 +54,8 @@ class AudioDataset(Dataset):
 #     root=Path('/storage/LabJob/Projects/Data/CovoST4/cv-corpus-6.1-2020-12-11/en/clips'))
 
 mydst = AudioDataset(
-    datatable=pd.read_csv('train.tsv', sep='\t'), 
-    root=Path('/home/jeffeuxmartin/Projects/Mys3prl/s3prl/s3prl/data/covost_en_de'),
+    datatable=pd.read_csv('/home/jeffeuxmartin/Projects/Mys3prl/s3prl/s3prl/data/covost_en_de/train.tsv', sep='\t'), 
+    root=Path('/livingrooms/public/CoVoST2/cv-corpus-6.1-2020-12-11/en/clips'),
 )
 
 mydataloader = DataLoader(mydst, batch_size=1, shuffle=False, num_workers=eval(sys.argv[1]))
