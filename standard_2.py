@@ -85,7 +85,7 @@ dumped = []  # 儲存已經處理過的音訊資料的列表
 for batch in tqdm(mydataloader, desc='resampling'):
     audio_list.append(batch)  # 將批處理的資料新增到列表中
     # 這裡是你對音訊資料進行處理的程式碼
-    if len(audio_list) >= 80000:
+    if len(audio_list) >= 20000:
         dumped, audio_list = dumpout(audio_list, dumped)
 dumped, audio_list = dumpout(audio_list, dumped)
 assert audio_list == []
