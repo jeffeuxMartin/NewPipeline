@@ -1,7 +1,7 @@
-#!/storage/LabJob/Projects/conda_env/s3prl_env/bin/python
+# #!/storage/LabJob/Projects/conda_env/s3prl_env/bin/python
 # from fairseq_utils import dump_hubert_feature
 import torch, torchaudio
-import os
+import os, sys
 from pathlib import Path
 import pandas as pd
 from torch.utils.data import Dataset, DataLoader
@@ -49,11 +49,16 @@ class AudioDataset(Dataset):
         resampled_waveform, resampled_nframes, resampled_sr = self.resampler(waveform, waveform_rate)
         return name, resampled_waveform, resampled_nframes, resampled_sr, *[row[col] for col in self.other_cols]
 
-mydst = AudioDataset(
-    datatable=pd.read_csv('standard_0.tsv', sep='\t'), 
-    root=Path('/storage/LabJob/Projects/Data/CovoST4/cv-corpus-6.1-2020-12-11/en/clips'))
+# mydst = AudioDataset(
+#     datatable=pd.read_csv('standard_0.tsv', sep='\t'), 
+#     root=Path('/storage/LabJob/Projects/Data/CovoST4/cv-corpus-6.1-2020-12-11/en/clips'))
 
-mydataloader = DataLoader(mydst, batch_size=1, shuffle=False, num_workers=0)
+mydst = AudioDataset(
+    datatable=pd.read_csv('train.tsv', sep='\t'), 
+    root=Path('/home/jeffeuxmartin/Projects/Mys3prl/s3prl/s3prl/data/covost_en_de'),
+)
+
+mydataloader = DataLoader(mydst, batch_size=1, shuffle=False, num_workers=eval(sys.argv[1]))
 from tqdm import tqdm
 
 audio_list = []  # 儲存所有音訊資料的列表
