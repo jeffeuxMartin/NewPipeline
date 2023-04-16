@@ -1,0 +1,201 @@
+audio	n_frames	sr	id	src_text	tgt_text
+buffer/common_voice_en_78232.wav	15744	16000	common_voice_en_78232	i wish you wouldn't	Ich wünschte, du ließest es bleiben.
+buffer/common_voice_en_544890.wav	17664	16000	common_voice_en_544890	all the best	Schöne Grüße.
+buffer/common_voice_en_86005.wav	17664	16000	common_voice_en_86005	wild-goose chase	Jagd auf Wildgänse
+buffer/common_voice_en_557962.wav	18816	16000	common_voice_en_557962	he's on the telephone	Am Telefon ist er.
+buffer/common_voice_en_552064.wav	18816	16000	common_voice_en_552064	where do you come from	Woher kommst du?
+buffer/common_voice_en_513863.wav	18816	16000	common_voice_en_513863	they'll take care of it	Sie kümmern sich drum.
+buffer/common_voice_en_652285.wav	18816	16000	common_voice_en_652285	then whose is it	Wem gehört sie dann?
+buffer/common_voice_en_544873.wav	19200	16000	common_voice_en_544873	they'll take care of it	Sie kümmern sich drum.
+buffer/common_voice_en_153795.wav	19584	16000	common_voice_en_153795	we can both hear	Wir können beide hören.
+buffer/common_voice_en_221976.wav	19584	16000	common_voice_en_221976	one that will write	Eine, die schreiben wird.
+buffer/common_voice_en_35570.wav	19584	16000	common_voice_en_35570	i tore him apart	Ich habe ihn zerrissen!
+buffer/common_voice_en_532793.wav	19584	16000	common_voice_en_532793	high voltage	Hochspannung!
+buffer/common_voice_en_3115.wav	19584	16000	common_voice_en_3115	you have no children	Sie sind kinderlos.
+buffer/common_voice_en_121676.wav	19584	16000	common_voice_en_121676	join the club	Tritt dem Club bei.
+buffer/common_voice_en_121866.wav	19584	16000	common_voice_en_121866	it's on the level	Es ist die reine Wahrheit.
+buffer/common_voice_en_121955.wav	19584	16000	common_voice_en_121955	is it a good job	Ist es ein guter Job?
+buffer/common_voice_en_212185.wav	19968	16000	common_voice_en_212185	you think you did	Du denkst du hast es getan.
+buffer/common_voice_en_78090.wav	19968	16000	common_voice_en_78090	this is christmas eve	Heute ist Heiligabend.
+buffer/common_voice_en_499018.wav	19968	16000	common_voice_en_499018	catch a cold	Sich erkälten
+buffer/common_voice_en_560230.wav	20352	16000	common_voice_en_560230	you think you did	Du denkst du hast es getan.
+buffer/common_voice_en_121653.wav	20352	16000	common_voice_en_121653	he's in the desk	Er ist im Schreibtisch.
+buffer/common_voice_en_17724245.wav	20736	16000	common_voice_en_17724245	you don't say so	Was Sie nicht sagen!
+buffer/common_voice_en_17704790.wav	20736	16000	common_voice_en_17704790	as sure as i am alive	So sicher, wie ich am Leben bin.
+buffer/common_voice_en_662155.wav	20736	16000	common_voice_en_662155	what else are you	Was sind Sie denn sonst noch?
+buffer/common_voice_en_78162.wav	20736	16000	common_voice_en_78162	i've got to see him	Ich muss ihn sehen.
+buffer/common_voice_en_652792.wav	20736	16000	common_voice_en_652792	try it again	Versuche es wieder.
+buffer/common_voice_en_652233.wav	20736	16000	common_voice_en_652233	what did you have	Was hatten Sie?
+buffer/common_voice_en_586892.wav	20736	16000	common_voice_en_586892	we want to see you	Wir wollen dich sehen.
+buffer/common_voice_en_499216.wav	20736	16000	common_voice_en_499216	swift as a shadow	Schnell wie ein Schatten
+buffer/common_voice_en_646090.wav	21120	16000	common_voice_en_646090	please let me come in	Bitte lassen Sie mich eintreten.
+buffer/common_voice_en_560574.wav	21504	16000	common_voice_en_560574	join the club	Tritt dem Club bei.
+buffer/common_voice_en_553632.wav	21504	16000	common_voice_en_553632	what's the matter with him	Was ist mit ihm los?
+buffer/common_voice_en_9331.wav	21504	16000	common_voice_en_9331	wait a minute	Warte kurz.
+buffer/common_voice_en_511623.wav	21504	16000	common_voice_en_511623	i have a pet spider	Ich habe eine Spinne als Haustier.
+buffer/common_voice_en_652316.wav	21504	16000	common_voice_en_652316	why didn't they wake me	Warum haben sie mich nicht geweckt?
+buffer/common_voice_en_586855.wav	21504	16000	common_voice_en_586855	is it chillier here	Ist es hier kühler
+buffer/common_voice_en_74391.wav	21888	16000	common_voice_en_74391	what's for dinner tonight	Was gibt es heute Abend zu essen?
+buffer/common_voice_en_207103.wav	21888	16000	common_voice_en_207103	in a pickle	In der Klemme.
+buffer/common_voice_en_652236.wav	21888	16000	common_voice_en_652236	full circle	Voller Kreis
+buffer/common_voice_en_17690113.wav	21888	16000	common_voice_en_17690113	have i offended you	Habe ich dich belogen?
+buffer/common_voice_en_122062.wav	21888	16000	common_voice_en_122062	all the best	Schöne Grüße.
+buffer/common_voice_en_17570924.wav	22272	16000	common_voice_en_17570924	between their teeth	Zwischen den Zähnen.
+buffer/common_voice_en_121928.wav	22272	16000	common_voice_en_121928	and up a dime	Und einen Cent mehr.
+buffer/common_voice_en_657796.wav	22656	16000	common_voice_en_657796	keep him in here	Behalten Sie ihn hier drin!
+buffer/common_voice_en_557958.wav	22656	16000	common_voice_en_557958	i think it is	Ich denke, das ist es.
+buffer/common_voice_en_577524.wav	22656	16000	common_voice_en_577524	can i help you	Kann ich Ihnen helfen?
+buffer/common_voice_en_209382.wav	22656	16000	common_voice_en_209382	now listen to me	Jetzt hör mir zu.
+buffer/common_voice_en_510764.wav	22656	16000	common_voice_en_510764	people walking	Menschen beim Spazierengehen.
+buffer/common_voice_en_551130.wav	22656	16000	common_voice_en_551130	catch a cold	Sich erkälten
+buffer/common_voice_en_676828.wav	22656	16000	common_voice_en_676828	but who asked him	Aber wer fragte ihn?
+buffer/common_voice_en_676857.wav	22656	16000	common_voice_en_676857	is it a good job	Ist es ein guter Job?
+buffer/common_voice_en_141277.wav	22656	16000	common_voice_en_141277	but who asked him	Aber wer fragte ihn?
+buffer/common_voice_en_141325.wav	22656	16000	common_voice_en_141325	can i help you	Kann ich Ihnen helfen?
+buffer/common_voice_en_17383974.wav	22656	16000	common_voice_en_17383974	she did not answer	Sie hat nicht geantwortet.
+buffer/common_voice_en_646223.wav	22656	16000	common_voice_en_646223	it takes time of course	Es braucht natürlich Zeit.
+buffer/common_voice_en_560247.wav	23040	16000	common_voice_en_560247	the one in there	Der da drinnen.
+buffer/common_voice_en_121816.wav	23040	16000	common_voice_en_121816	that's what i mean	Genau das meine ich.
+buffer/common_voice_en_58011.wav	23040	16000	common_voice_en_58011	you're far too valuable	Sie sind viel zu wertvoll!
+buffer/common_voice_en_665708.wav	23424	16000	common_voice_en_665708	how about that check	Wie sieht es mit diesem Scheck aus?
+buffer/common_voice_en_17724246.wav	23424	16000	common_voice_en_17724246	money makes the mare to go	Geld regiert die Welt.
+buffer/common_voice_en_17760561.wav	23424	16000	common_voice_en_17760561	so far so good	So weit so gut.
+buffer/common_voice_en_552062.wav	23424	16000	common_voice_en_552062	in my heart of hearts	Im Herzen meines Herzens
+buffer/common_voice_en_79988.wav	23424	16000	common_voice_en_79988	what else are you	Was sind Sie denn sonst noch?
+buffer/common_voice_en_610152.wav	23424	16000	common_voice_en_610152	i can see that	Das kann ich sehen.
+buffer/common_voice_en_513892.wav	23424	16000	common_voice_en_513892	maybe the water was too hot	Vielleicht war das Wasser zu heiß.
+buffer/common_voice_en_652033.wav	23424	16000	common_voice_en_652033	but a lovely chap	Aber ein toller Kerl!
+buffer/common_voice_en_17733774.wav	23424	16000	common_voice_en_17733774	it was too late	Es war zu spät.
+buffer/common_voice_en_18261292.wav	23424	16000	common_voice_en_18261292	the clothes were torn	Die Kleidung war zerrissen.
+buffer/common_voice_en_51193.wav	23424	16000	common_voice_en_51193	you think you did	Du denkst du hast es getan.
+buffer/common_voice_en_174905.wav	23808	16000	common_voice_en_174905	i'll call the police	Ich werde die Polizei rufen.
+buffer/common_voice_en_78341.wav	23808	16000	common_voice_en_78341	just step on it	Geben Sie einfach Gas.
+buffer/common_voice_en_652062.wav	23808	16000	common_voice_en_652062	i'm on the job	Ich bin bei der Arbeit!
+buffer/common_voice_en_121732.wav	23808	16000	common_voice_en_121732	where do you come from	Woher kommst du?
+buffer/common_voice_en_50119.wav	23808	16000	common_voice_en_50119	join the club	Tritt dem Club bei.
+buffer/common_voice_en_158533.wav	24192	16000	common_voice_en_158533	now you got me	Jetzt haben Sie mich.
+buffer/common_voice_en_165601.wav	24192	16000	common_voice_en_165601	don't mind the colonel	Kümmern Sie sich nicht um den Colonel.
+buffer/common_voice_en_12501.wav	24192	16000	common_voice_en_12501	will it snow in granbury	Wird es heute in Granbury schneien?
+buffer/common_voice_en_50786.wav	24192	16000	common_voice_en_50786	never give up	Niemals aufgeben.
+buffer/common_voice_en_51196.wav	24192	16000	common_voice_en_51196	try it again	Versuche es wieder.
+buffer/common_voice_en_618338.wav	24576	16000	common_voice_en_618338	what do they want	Was wünschen sie?
+buffer/common_voice_en_212176.wav	24576	16000	common_voice_en_212176	do you know ahmed	Kennen Sie Ahmed?
+buffer/common_voice_en_52902.wav	24576	16000	common_voice_en_52902	never give up	Niemals aufgeben.
+buffer/common_voice_en_112667.wav	24576	16000	common_voice_en_112667	keep him in here	Behalten Sie ihn hier drin!
+buffer/common_voice_en_184932.wav	24576	16000	common_voice_en_184932	when did you get back	Wann bist du zurückgekommen?
+buffer/common_voice_en_74396.wav	24576	16000	common_voice_en_74396	got to get some practice	Wir müssen etwas üben.
+buffer/common_voice_en_513869.wav	24576	16000	common_voice_en_513869	because i don't love him	Weil ich ihn nicht liebe.
+buffer/common_voice_en_18401.wav	24576	16000	common_voice_en_18401	a boy surfs	Ein Junge surft.
+buffer/common_voice_en_649393.wav	24576	16000	common_voice_en_649393	beggar all description	Jeder Beschreibung spotten
+buffer/common_voice_en_649517.wav	24576	16000	common_voice_en_649517	'tis high time	'S ist höchste Zeit.
+buffer/common_voice_en_17385218.wav	24576	16000	common_voice_en_17385218	so far so good	So weit so gut.
+buffer/common_voice_en_662135.wav	24576	16000	common_voice_en_662135	they'll believe him	Sie werden ihm glauben.
+buffer/common_voice_en_662147.wav	24576	16000	common_voice_en_662147	all the best	Schöne Grüße.
+buffer/common_voice_en_121103.wav	24576	16000	common_voice_en_121103	can i help you	Kann ich Ihnen helfen?
+buffer/common_voice_en_78413.wav	24576	16000	common_voice_en_78413	i feel so good i could spit	So gut fühle ich mich, dass ich spucken könnte.
+buffer/common_voice_en_650586.wav	24576	16000	common_voice_en_650586	hey foxy	Hallo Fuchs!
+buffer/common_voice_en_559527.wav	24576	16000	common_voice_en_559527	i did not know	Das wusste ich nicht.
+buffer/common_voice_en_559533.wav	24576	16000	common_voice_en_559533	high voltage	Hochspannung!
+buffer/common_voice_en_673856.wav	24576	16000	common_voice_en_673856	i'm sure you haven't any	Ich bin sicher, Sie haben keine.
+buffer/common_voice_en_17279690.wav	24576	16000	common_voice_en_17279690	capital town	Hauptstadt.
+buffer/common_voice_en_17684941.wav	24576	16000	common_voice_en_17684941	what did you think	Was dachtest du?
+buffer/common_voice_en_73661.wav	24576	16000	common_voice_en_73661	you just pat him	Streichle ihn einfach.
+buffer/common_voice_en_647308.wav	24960	16000	common_voice_en_647308	i'm loving it	Ich liebe es.
+buffer/common_voice_en_18491692.wav	24960	16000	common_voice_en_18491692	i knew it	Ich wusste es!
+buffer/common_voice_en_560315.wav	24960	16000	common_voice_en_560315	times are different now	Die Zeiten sind jetzt anders.
+buffer/common_voice_en_78146.wav	24960	16000	common_voice_en_78146	play some diva house	Spiele etwas Diva House.
+buffer/common_voice_en_122057.wav	24960	16000	common_voice_en_122057	you forgot to pack it	Du hast vergessen, es einzubacken.
+buffer/common_voice_en_673894.wav	24960	16000	common_voice_en_673894	please postman	Bitte Briefträger
+buffer/common_voice_en_219145.wav	25344	16000	common_voice_en_219145	how do you like it	Gefällt es Ihnen?
+buffer/common_voice_en_510181.wav	25344	16000	common_voice_en_510181	got to get some practice	Wir müssen etwas üben.
+buffer/common_voice_en_60346.wav	25344	16000	common_voice_en_60346	they're starting to throw things	Sie fangen an, Dinge zu werfen!
+buffer/common_voice_en_529660.wav	25344	16000	common_voice_en_529660	i'll always remember it	Ich werde mich immer daran erinnern.
+buffer/common_voice_en_629212.wav	25344	16000	common_voice_en_629212	all the best	Schöne Grüße.
+buffer/common_voice_en_508046.wav	25344	16000	common_voice_en_508046	you're not paid to be a canary	Du wirst nicht als Lockvogel eingestellt.
+buffer/common_voice_en_553636.wav	25344	16000	common_voice_en_553636	judge tully is in	Richter Tully ist dabei.
+buffer/common_voice_en_12526.wav	25344	16000	common_voice_en_12526	heart of gold	Herz aus Gold.
+buffer/common_voice_en_85984.wav	25344	16000	common_voice_en_85984	i have a pet spider	Ich habe eine Spinne als Haustier.
+buffer/common_voice_en_84123.wav	25344	16000	common_voice_en_84123	the dogs are racing	Die Hunde laufen.
+buffer/common_voice_en_497381.wav	25344	16000	common_voice_en_497381	i can't let her out	Ich kann sie nicht rauslassen.
+buffer/common_voice_en_620655.wav	25344	16000	common_voice_en_620655	you think you did	Du denkst du hast es getan.
+buffer/common_voice_en_610138.wav	25344	16000	common_voice_en_610138	this is the hardest part of my setup	Das ist der schwierigste Teil meiner Aufstellung.
+buffer/common_voice_en_616509.wav	25344	16000	common_voice_en_616509	flaming youth	Flammende Jugend
+buffer/common_voice_en_623935.wav	25344	16000	common_voice_en_623935	sun is better than rain	Sonne ist besser wie Regen.
+buffer/common_voice_en_624032.wav	25344	16000	common_voice_en_624032	give me the movie times	geben Sie mir die Filmzeiten
+buffer/common_voice_en_649408.wav	25344	16000	common_voice_en_649408	i'm going to scream	Ich werde schreien!
+buffer/common_voice_en_124167.wav	25344	16000	common_voice_en_124167	what do they want	Was wünschen sie?
+buffer/common_voice_en_531971.wav	25344	16000	common_voice_en_531971	they're on their way	Sie sind auf dem Weg.
+buffer/common_voice_en_531978.wav	25344	16000	common_voice_en_531978	i don't blame them	Ich mache ihnen keinen Vorwurf.
+buffer/common_voice_en_532022.wav	25344	16000	common_voice_en_532022	we don't use money in heaven	Im Himmel verwenden wir kein Geld.
+buffer/common_voice_en_15733287.wav	25344	16000	common_voice_en_15733287	bye for now	Auf Wiedersehen!
+buffer/common_voice_en_501853.wav	25344	16000	common_voice_en_501853	you know you did	Du weißt, dass du es getan hast.
+buffer/common_voice_en_652172.wav	25344	16000	common_voice_en_652172	i'd like to think	Ich würde gerne nachdenken.
+buffer/common_voice_en_41012.wav	25344	16000	common_voice_en_41012	we can both hear	Wir können beide hören.
+buffer/common_voice_en_587069.wav	25344	16000	common_voice_en_587069	better safe than sorry	Vorsicht ist besser als Nachsicht.
+buffer/common_voice_en_17570724.wav	25344	16000	common_voice_en_17570724	capital town	Hauptstadt.
+buffer/common_voice_en_18261503.wav	25344	16000	common_voice_en_18261503	slow down	Langsamer!
+buffer/common_voice_en_33613.wav	25344	16000	common_voice_en_33613	which one is mine	Welches ist meines?
+buffer/common_voice_en_650711.wav	25344	16000	common_voice_en_650711	now you got me	Jetzt haben Sie mich.
+buffer/common_voice_en_122083.wav	25344	16000	common_voice_en_122083	then he may be caught on a ledge	Dann könnte er an einem Felsvorsprung hängen bleiben!
+buffer/common_voice_en_671784.wav	25344	16000	common_voice_en_671784	he's probably trying the gate	Er wird es beim Tor versuchen!
+buffer/common_voice_en_92432.wav	25344	16000	common_voice_en_92432	brave new world	Schöne neue Welt
+buffer/common_voice_en_18166002.wav	25344	16000	common_voice_en_18166002	love is blind	Liebe macht blind.
+buffer/common_voice_en_17668700.wav	25344	16000	common_voice_en_17668700	to take a drop too much	Um auch einen Tropfen zu bekommen.
+buffer/common_voice_en_50488.wav	25344	16000	common_voice_en_50488	don't mind the colonel	Kümmern Sie sich nicht um den Colonel.
+buffer/common_voice_en_50953.wav	25344	16000	common_voice_en_50953	which one is mine	Welches ist meines?
+buffer/common_voice_en_51358.wav	25344	16000	common_voice_en_51358	the one in there	Der da drinnen.
+buffer/common_voice_en_51369.wav	25344	16000	common_voice_en_51369	what did you have	Was hatten Sie?
+buffer/common_voice_en_51458.wav	25344	16000	common_voice_en_51458	i can see that	Das kann ich sehen.
+buffer/common_voice_en_51697.wav	25344	16000	common_voice_en_51697	then whose is it	Wem gehört sie dann?
+buffer/common_voice_en_17729756.wav	25344	16000	common_voice_en_17729756	of course i am	Natürlich bin ich das!
+buffer/common_voice_en_54738.wav	25728	16000	common_voice_en_54738	this is christmas eve	Heute ist Heiligabend.
+buffer/common_voice_en_126787.wav	25728	16000	common_voice_en_126787	now you got me	Jetzt haben Sie mich.
+buffer/common_voice_en_559765.wav	25728	16000	common_voice_en_559765	give her the works	Übergeben Sie ihr die Werke.
+buffer/common_voice_en_18455905.wav	25728	16000	common_voice_en_18455905	don't tell the boys	Sag den Jungs nichts!
+buffer/common_voice_en_513867.wav	25728	16000	common_voice_en_513867	you just pat him	Streichle ihn einfach.
+buffer/common_voice_en_207045.wav	25728	16000	common_voice_en_207045	elbow room	Spielraum
+buffer/common_voice_en_18615064.wav	25728	16000	common_voice_en_18615064	you must be worried	Du musst dir Sorgen machen.
+buffer/common_voice_en_201879.wav	25728	16000	common_voice_en_201879	full circle	Voller Kreis
+buffer/common_voice_en_532028.wav	25728	16000	common_voice_en_532028	i can see that	Das kann ich sehen.
+buffer/common_voice_en_532055.wav	25728	16000	common_voice_en_532055	he asked for him	Er hat nach ihm gefragt.
+buffer/common_voice_en_78089.wav	25728	16000	common_voice_en_78089	i am planning to renovate my home	Ich will mein Zuhause renovieren.
+buffer/common_voice_en_78110.wav	25728	16000	common_voice_en_78110	that party was amazing	Diese Party war herrlich.
+buffer/common_voice_en_652280.wav	25728	16000	common_voice_en_652280	please use your turn signal	Bitte benutzen Sie Ihren Blinker.
+buffer/common_voice_en_121854.wav	25728	16000	common_voice_en_121854	of course you never did	Natürlich haben Sie das nie getan.
+buffer/common_voice_en_499287.wav	25728	16000	common_voice_en_499287	i've got to go	Ich muss jetzt gehen.
+buffer/common_voice_en_95769.wav	25728	16000	common_voice_en_95769	what's she up to	Was hat sie vor?
+buffer/common_voice_en_645957.wav	25728	16000	common_voice_en_645957	who locked the door	Wer hat die Tür verschlossen?
+buffer/common_voice_en_50436.wav	25728	16000	common_voice_en_50436	this is the press room	Das ist der Presseraum.
+buffer/common_voice_en_51484.wav	25728	16000	common_voice_en_51484	just step on it	Geben Sie einfach Gas.
+buffer/common_voice_en_18019025.wav	26112	16000	common_voice_en_18019025	and so do i	Und ich auch.
+buffer/common_voice_en_121112.wav	26112	16000	common_voice_en_121112	it takes time of course	Es braucht natürlich Zeit.
+buffer/common_voice_en_121905.wav	26112	16000	common_voice_en_121905	these are not camels	Das sind keine Kamele!
+buffer/common_voice_en_673816.wav	26112	16000	common_voice_en_673816	the game is up	Das Spiel ist aus.
+buffer/common_voice_en_58595.wav	26112	16000	common_voice_en_58595	is it a good job	Ist es ein guter Job?
+buffer/common_voice_en_18498147.wav	26112	16000	common_voice_en_18498147	what's the date	Welches Datum haben wir?
+buffer/common_voice_en_122716.wav	26112	16000	common_voice_en_122716	there's the rub	So ist das also
+buffer/common_voice_en_51029.wav	26112	16000	common_voice_en_51029	judge tully is in	Richter Tully ist dabei.
+buffer/common_voice_en_209379.wav	26496	16000	common_voice_en_209379	what does that get us	Was haben wir davon?
+buffer/common_voice_en_657613.wav	26496	16000	common_voice_en_657613	i don't blame them	Ich mache ihnen keinen Vorwurf.
+buffer/common_voice_en_684787.wav	26496	16000	common_voice_en_684787	maybe he'll give us one	Vielleicht gibt er uns eins.
+buffer/common_voice_en_556484.wav	26496	16000	common_voice_en_556484	come what come may	Komme, was da wolle
+buffer/common_voice_en_635867.wav	26496	16000	common_voice_en_635867	what's she up to	Was hat sie vor?
+buffer/common_voice_en_654537.wav	26496	16000	common_voice_en_654537	who's down there with you	Wer ist denn da drunten bei dir?
+buffer/common_voice_en_544882.wav	26496	16000	common_voice_en_544882	she reversed the charges	Sie hob die Anklagepunkte auf.
+buffer/common_voice_en_34884.wav	26496	16000	common_voice_en_34884	to keep on pitching	Um immer weiter zu pitchen.
+buffer/common_voice_en_34903.wav	26496	16000	common_voice_en_34903	it's on the level	Es ist die reine Wahrheit.
+buffer/common_voice_en_545281.wav	26496	16000	common_voice_en_545281	i think it's marvelous	Ich finde es wunderbar.
+buffer/common_voice_en_96320.wav	26496	16000	common_voice_en_96320	in a pickle	In der Klemme.
+buffer/common_voice_en_614024.wav	26496	16000	common_voice_en_614024	tower of strength	Tower of Strength
+buffer/common_voice_en_8607969.wav	26496	16000	common_voice_en_8607969	bye for now	Auf Wiedersehen!
+buffer/common_voice_en_662065.wav	26496	16000	common_voice_en_662065	i'd like to think	Ich würde gerne nachdenken.
+buffer/common_voice_en_78411.wav	26496	16000	common_voice_en_78411	what's the weather in ransom canyon	Wie ist das Wetter in Ransom Canyon?
+buffer/common_voice_en_652747.wav	26496	16000	common_voice_en_652747	what's up	Was gibt's?
+buffer/common_voice_en_18572981.wav	26496	16000	common_voice_en_18572981	i shall help you	Ich werde Ihnen helfen.
+buffer/common_voice_en_17685924.wav	26496	16000	common_voice_en_17685924	what good would that do	Wofür wäre das denn gutgewesen?
+buffer/common_voice_en_650582.wav	26496	16000	common_voice_en_650582	play moris tepper	Moris Tepper spielen
+buffer/common_voice_en_18780232.wav	26496	16000	common_voice_en_18780232	what's your name	Wie ist Ihr Name?
+buffer/common_voice_en_18606231.wav	26496	16000	common_voice_en_18606231	he is not a candidate	Er ist kein Kandidat.
+buffer/common_voice_en_646134.wav	26496	16000	common_voice_en_646134	did you want to see me	Wollten Sie mich sehen?
+buffer/common_voice_en_17684886.wav	26496	16000	common_voice_en_17684886	she did not know	Sie wusste es nicht.
+buffer/common_voice_en_50447.wav	26496	16000	common_voice_en_50447	let me touch you	Lass mich dich anfassen.
